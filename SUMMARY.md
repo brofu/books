@@ -9,6 +9,7 @@
       * [Head First Design Patterns](se/dp/hfdp/summary.md)
         * [Strategy Pattern](se/dp/hfdp/strategy.md)
         * [Observer Pattern](se/dp/hfdp/observer.md)
+        * [Decorator Pattern](se/dp/hfdp/decorate.md)
 * [Tools](tools/summary.md)
   * [Shell](tools/shell/summary.md)
   * [Vim](tools/vim/summary.md)
