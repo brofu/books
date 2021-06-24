@@ -10,6 +10,8 @@
         * [Strategy Pattern](se/dp/hfdp/strategy.md)
         * [Observer Pattern](se/dp/hfdp/observer.md)
         * [Decorator Pattern](se/dp/hfdp/decorate.md)
+        * [Factory Pattern](se/dp/hfdp/factory.md)
+            * [Simple Factory](se/dp/hfdp/factory_sf.md)
 * [Tools](tools/summary.md)
   * [Shell](tools/shell/summary.md)
   * [Vim](tools/vim/summary.md)
