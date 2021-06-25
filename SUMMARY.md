@@ -13,6 +13,7 @@
         * [Factory Pattern](se/dp/hfdp/factory.md)
             * [Simple Factory](se/dp/hfdp/factory_sf.md)
             * [Factory Method](se/dp/hfdp/factory_fm.md)
+            * [Abstract Factory](se/dp/hfdp/factory_af.md)
 * [Tools](tools/summary.md)
   * [Shell](tools/shell/summary.md)
   * [Vim](tools/vim/summary.md)

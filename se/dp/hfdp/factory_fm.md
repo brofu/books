@@ -6,10 +6,10 @@
 ![fm-2][fm-2] 
 <center>Factory Method Pattern</center>
 
-# 设计原则
+# OO原则
 * 要依赖抽象，不要依赖具体类
     * 依赖倒置原则。Dependency Inversion Principle
-    * 不能让高层组件依赖低层组件，相反，不关高层或者低层组件，都应该依赖于抽象
+    * 不能让高层组件依赖低层组件，相反，不管高层或者低层组件，都应该依赖于抽象
     * **高层组件**是指由其他低层组件定义/影响其行为的类。比如，`PizzaStore` is affected by `Pizza`
     * **Factory Method Pattern** let both `PizzaStore` and `ConcretePizza` depend `abstrct Pizza`
     * 几个方法
