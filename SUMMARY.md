@@ -16,6 +16,8 @@
             * [Abstract Factory](se/dp/hfdp/factory_af.md)
         * [Singleton Pattern](se/dp/hfdp/singleton.md)
         * [Command Pattern](se/dp/hfdp/command.md)
+        * [Adapter Pattern](se/dp/hfdp/adapter.md)
+        * [Facade Pattern](se/dp/hfdp/facade.md)
 * [Tools](tools/summary.md)
   * [Shell](tools/shell/summary.md)
   * [Vim](tools/vim/summary.md)
